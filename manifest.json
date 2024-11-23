@@ -1,7 +1,7 @@
 {
     "manifest_version":3,
     "name":"GFGHub",
-    "description":"Automatically pushes your GeeksForGeeks solution to a GitHub Repository of your choice within seconds on successful submission.",
+    "description":"GFGHub Helps to Automatically Push Your GFG Code to GITHUB Repository",
     "homepage_url":"https://github.com/Jr-Einstein/GFGHub",
     "version":"0.0.1",
     "author": "Aman Kumar Singh",
